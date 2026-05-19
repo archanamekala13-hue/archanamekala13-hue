@@ -42,7 +42,7 @@ Archana-Mekala
 * 🤝 Contribute to open-source projects
 * 💼 Become a skilled software developer
 
----
+
 
 ## 📈 Currently Learning
 
@@ -51,7 +51,6 @@ Archana-Mekala
 #✨ Web Development Basics
 #✨ Problem Solving & Coding Challenges
 
----
 
 #⭐ Thanks for visiting my profile!
 #✨ Keep Learning • Keep Building • Keep Growing
