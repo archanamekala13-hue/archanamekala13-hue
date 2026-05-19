@@ -1,16 +1,57 @@
-## Hi there 👋
+Archana-Mekala
 
-<!--
-**archanamekala13-hue/archanamekala13-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Archana
 
-Here are some ideas to get you started:
+🎓 Student | 💻 Beginner Programmer | 🌟 Future Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🌱 Currently learning **Python, Java, HTML & CSS**
+* 💡 Passionate about **Programming & Problem Solving**
+* 📚 Improving my coding skills every day
+* 🧑‍💻 Exploring GitHub and building beginner projects
+* ✨ Interested in creating useful and creative applications
+
+---
+
+## 🛠️ Tech Skills
+
+* 🐍 Python
+* ☕ Java
+* 💻 C Programming
+* 🌐 HTML & CSS
+* 📚 Basic Data Structures
+
+---
+
+## 📂 Projects
+
+🔹 Simple Python Programs
+🔹 Basic Java Applications
+🔹 Mini Web Projects
+🔹 Coding Practice Problems
+
+---
+
+## 🎯 Goals
+
+* 🚀 Learn advanced programming concepts
+* 🌍 Build real-world projects
+* 🤝 Contribute to open-source projects
+* 💼 Become a skilled software developer
+
+---
+
+## 📈 Currently Learning
+
+✨ Python Development
+✨ Java Programming
+✨ Web Development Basics
+✨ Problem Solving & Coding Challenges
+
+---
+
+⭐ Thanks for visiting my profile!
+✨ Keep Learning • Keep Building • Keep Growing
