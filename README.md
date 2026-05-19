@@ -67,11 +67,6 @@ Archana-Mekala
 
 ✨ Problem Solving & Coding Challenges
 
----
-
-## 🌟 Fun Fact
-
-💡 I believe consistency and practice can turn beginners into experts.
 
 
 
