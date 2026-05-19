@@ -46,12 +46,12 @@ Archana-Mekala
 
 ## 📈 Currently Learning
 
-✨ Python Development
-✨ Java Programming
-✨ Web Development Basics
-✨ Problem Solving & Coding Challenges
+#✨ Python Development
+#✨ Java Programming
+#✨ Web Development Basics
+#✨ Problem Solving & Coding Challenges
 
 ---
 
-⭐ Thanks for visiting my profile!
-✨ Keep Learning • Keep Building • Keep Growing
+#⭐ Thanks for visiting my profile!
+#✨ Keep Learning • Keep Building • Keep Growing
